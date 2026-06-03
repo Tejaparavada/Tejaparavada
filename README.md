@@ -12,13 +12,13 @@
 <a href="https://www.linkedin.com/in/teja-paravada">
   <img src="https://img.shields.io/badge/LinkedIn-Teja%20Paravada-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/teja-paravada">
-  <img src="https://img.shields.io/badge/GitHub-teja--paravada-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/Tejaparavada">
+  <img src="https://img.shields.io/badge/GitHub-Tejaparavada-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=teja-paravada&style=for-the-badge&color=00C9FF" />
+<img src="https://komarev.com/ghpvc/?username=Tejaparavada&style=for-the-badge&color=00C9FF" />
 
 </div>
 
@@ -131,16 +131,17 @@ Exploring practical AI and software development projects to improve technical sk
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=teja-paravada&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=teja-paravada&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tejaparavada&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<br><br>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tejaparavada&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=teja-paravada&theme=tokyonight&hide_border=true" />
+</div>
 
-<br><br>
+<br>
 
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=teja-paravada&theme=tokyo-night&hide_border=true&area=true" />
+<div align="center">
+
+<img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tejaparavada&theme=tokyonight" />
 
 </div>
 
